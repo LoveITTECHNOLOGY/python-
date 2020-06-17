@@ -1,0 +1,1 @@
+数据可视化版本 对于python 3.6.5来说安装:pip install Pyecharts==1.5.1
